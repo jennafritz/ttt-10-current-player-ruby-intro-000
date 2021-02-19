@@ -5,5 +5,4 @@ def turn_count(board)
       puts "position taken"
     end
   end
-  counter
 end
